@@ -8,6 +8,7 @@
     <style>
         h1{
            margin-top: 150px;
+           color: white;
         }
 
         ul{
@@ -21,16 +22,23 @@
         }
 
         body{
-            background-image: url("img.png");
+            background-image: url("https://reteinformaticalavoro.it/blog/wp-content/uploads/2021/05/linguaggi-di-programmazione-piu-popolari.png");
+            background-repeat: no-repeat;
+            background-size: 1920px 940px;
         }
 
+        a{
+            color: white;
+            text-decoration: none;
+            font-size: 45px;
+        }
     </style>
 </head>
 <body>
     <header>
         <ul>
             <li><a href="/link">link paragrafo</a></li>
-            <li><a href="/link">link paragrafo</a></li>
+            <li><a href="/spiderman">spider-man</a></li>
             <li><a href="/link">link paragrafo</a></li>
         </ul>
     </header>

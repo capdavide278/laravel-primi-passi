@@ -21,3 +21,7 @@ Route::get('/link', function () {
     return view('link'); 
 });
 
+Route::get('/spiderman', function () {
+    return view('spiderman'); 
+});
+
